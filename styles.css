@@ -36,6 +36,7 @@ div {
     background-image: url(assets/noise.png);
 
     animation-name: fadein;
+    animation-delay: 300ms;
     animation-duration: 500ms;
     padding: 5vw;
     /* background-color: #ffb3d9; */
