@@ -1,2 +1,1 @@
-console.log("fuck you beff jezos")
-console.log("fuck you zucc")
+alert("Hi! This is website of 3 cool guys :)")
