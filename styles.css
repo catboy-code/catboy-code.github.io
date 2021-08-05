@@ -1,0 +1,55 @@
+@font-face {
+    font-family: selawksl;
+    src: url(assets/selawksl.ttf);
+}
+
+@keyframes fadein {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+html {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    background: url(assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg);
+}
+
+div {
+    margin: 1.5em;
+    border-radius: 10px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
+    left: 50%;
+    /* Parent background + Gaussian blur */
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+
+    /* Exclusion blend */
+    background-blend-mode: exclusion;
+
+    /* Color/tint overlay + Opacity */
+    background: rgba(0, 0, 0, 0.2);
+
+    /* Tiled noise texture */
+    background-image: url(assets/noise.png);
+
+    animation-name: fadein;
+    animation-duration: 500ms;
+    padding: 5vw;
+    /* background-color: #ffb3d9; */
+    color: white;
+    text-align: center;
+  }
+
+header {
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'selawksl';   
+}
+
+h1 {
+    font-weight: lighter;
+    font-size: 10vw;
+}
