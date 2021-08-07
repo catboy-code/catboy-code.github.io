@@ -14,10 +14,16 @@ html {
 
 body {
     margin: 0px;
+    background-color: #fffaee;
+    
+}
+
+.headerbg {
+    padding: 1.5em;
     background: url(assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg);
 }
 
-div {
+.header {
     margin: 1.5em;
     border-radius: 10px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
@@ -44,7 +50,13 @@ div {
     /* background-color: #ffb3d9; */
     color: white;
     text-align: center;
-  }
+}
+
+.main {
+    margin: 0em;
+    border-radius: 0px;
+    color: #101010;
+}
 
 header {
     text-align: center;
@@ -60,6 +72,7 @@ h1 {
 
 p {
     font-size: 1.5em;
+    font-family: "selawksl";
 }
 
 a:link {
@@ -75,4 +88,8 @@ a:hover {
 a:visited {
     color:#9b9a9a;
     text-decoration: none;
+}
+
+footer {
+    color: #101010;
 }
