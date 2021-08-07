@@ -15,9 +15,13 @@ html {
 body {
     margin: 0px;
     background-color: #fffaee;
+    font-family: "selawksl";
     
 }
 
+div {
+  padding: 8px;
+}
 .headerbg {
     padding: 1.5em;
     background: url(assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg);
