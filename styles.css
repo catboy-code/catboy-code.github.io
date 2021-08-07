@@ -22,6 +22,7 @@ body {
 div {
   padding: 8px;
 }
+
 .headerbg {
     padding: 1.5em;
     background: url(assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg);
@@ -57,11 +58,14 @@ div {
 }
 
 .menu {
-  left: 50%;
+  margin: auto;
+  margin-top: 2vw;
+  padding: 1vw;
   width: 50%;
   min-width: 700px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
   border-radius: 10px;
+ /* background-color: #ffb3d9; */
 }
 
 .main {
