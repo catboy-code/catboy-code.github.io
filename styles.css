@@ -30,7 +30,7 @@ body {
     left: 50%;
     /* Parent background + Gaussian blur */
     backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(20px);
 
     /* Exclusion blend */
     background-blend-mode: exclusion;
@@ -50,6 +50,10 @@ body {
     /* background-color: #ffb3d9; */
     color: white;
     text-align: center;
+}
+
+.menu {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
 }
 
 .main {
@@ -91,6 +95,6 @@ a:visited {
 }
 
 footer {
-  font-size: 1em;
+  font-size: 0.5em;
   color: #101010;
 }
