@@ -62,7 +62,17 @@ p {
     font-size: 1.5em;
 }
 
-a {
+a:link {
   color: #eeeeff;
+  text-decoration: none;
 }
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#9b9a9a;
+    text-decoration: none;
 }
