@@ -88,7 +88,7 @@ div {
 
 .left {
   text-align: center;
-  left: 25%
+  left: 25%;
   /* background-color: #ffb3d9; */
   flex: 1;
 }
