@@ -1,10 +1,10 @@
-function darkMode() {
+function changeMode() {
     var app = document.getElementsByTagName("BODY")[0];
-    if (localStorage.lightMode == "dark") {
-	localStorage.lightMode = "light";
+    if (localStorage.getItem("lightMode") == "dark") {
+	localStorage.setItem ("lightMode", "light");
 	app.setAttribute("light-mode", "light");
     } else {
-	localStorage.lightMode = "dark";
+	localStorage.setItem ("lightMode", "dark");
 	app.setAttribute("light-mode", "dark");
     }		
 }

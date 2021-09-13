@@ -5,7 +5,19 @@
     <title>code.spam();</title>
 </head>
 <body>
-    
+   <script>
+     function checkMode () {
+  var app = document.getElementsByTagName("BODY")[0];
+    if (localStorage.getItem("lightMode") == "dark") {
+	localStorage.setItem ("lightMode", "dark");
+	app.setAttribute("light-mode", "dark");
+    } else {
+	localStorage.setItem ("lightMode", "light");
+	app.setAttribute("light-mode", "light");
+    }
+}
+checkMode()
+   </script> 
     <!--  header  -->
     <div class="headerbg">
         <div class="header">
@@ -20,7 +32,7 @@
     <div class="menu">
       <div class="left"> <div class="button"> blog </div></div>
       <div class="center"> <div class="button" onclick="document.location='experiments.html'"> experiments </div></div>
-      <div class="right"> <div class="button" onclick="darkMode()"> dark mode? </div></div>
+      <div class="right"> <div class="button" onclick="changeMode()"> dark mode? </div></div>
     </div>
     <div class="main">
         <p>hello there</p>
