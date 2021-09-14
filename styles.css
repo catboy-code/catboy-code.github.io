@@ -54,6 +54,8 @@ div {
 .headerbg {
     padding: 1.5em;
     background: url(assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header {
