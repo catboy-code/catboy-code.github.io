@@ -64,14 +64,14 @@ div {
     box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
     left: 50%;
     /* Parent background + Gaussian blur */
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
 
     /* Exclusion blend */
     background-blend-mode: exclusion;
 
     /* Color/tint overlay + Opacity */
-    background: rgba(26, 26, 26, 0.69);
+    background: rgba(26, 26, 26, .42);
 
     /* Tiled noise texture */
     background-image: url(assets/noise.png);
