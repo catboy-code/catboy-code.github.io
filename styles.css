@@ -139,8 +139,10 @@ div {
 }
 
 .main {
-    margin: 0em;
+    margin: auto;
     border-radius: 0px;
+    width: 69%; /* nice */
+    max-width: 700px;
 }
 
 header {
@@ -153,6 +155,11 @@ h1 {
     font-weight: lighter;
     font-size: 10vw;
     margin-bottom: 0.5em;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 5vw;
 }
 
 p {
