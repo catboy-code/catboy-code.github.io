@@ -40,7 +40,7 @@ body[light-mode=dark] {
 }
 
 
-body[light-mode=light] .main a, a:visited {
+body[light-mode=dark] .main a, a:visited {
     color: #fffaee;
     transition-duration: 0.05s;
 }
