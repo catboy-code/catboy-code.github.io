@@ -39,7 +39,8 @@ body[light-mode=dark] {
     color: #fffaee;
 }
 
-body[light-mode=dark] a:link {
+
+body[light-mode=light] .main a, a:visited {
     color: #fffaee;
     transition-duration: 0.05s;
 }
