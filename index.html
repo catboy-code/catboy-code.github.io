@@ -5,7 +5,29 @@
     <title>code.spam();</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body> 
+<body>
+<script>
+     function checkMode () {
+  var app = document.getElementsByTagName("BODY")[0];
+    if (localStorage.getItem("lightMode") == "dark") {
+	localStorage.setItem ("lightMode", "dark");
+	app.setAttribute("light-mode", "dark");
+    } else {
+	localStorage.setItem ("lightMode", "light");
+	app.setAttribute("light-mode", "light");
+    }
+}
+checkMode()
+</script>
+
+ <script src="/upup.min.js"></script>
+  <script>
+    UpUp.start({
+      'content-url': '/offline.html', // show this page to offline users
+      'assets': ['styles.css', 'app.js', 'assets/noise.png', 'assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg', 'assets/selawksl.ttf']
+    });
+  </script>
+ 
     <!--  header  -->
     <div class="headerbg">
         <div class="header">

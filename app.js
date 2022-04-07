@@ -1,3 +1,5 @@
+// dark mode and stuff
+
 function changeMode() {
     var app = document.getElementsByTagName("BODY")[0];
     if (localStorage.getItem("lightMode") == "dark") {

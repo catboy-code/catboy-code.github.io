@@ -67,7 +67,6 @@ div {
 
 .header {
     max-width: 800px;
-    width: 69%;
     margin: 1.5rem auto;
     border-radius: 1rem;
     box-shadow: 0 15px 30px rgba(0, 0, 0, .2), 0 1px 8px rgba(0, 0, 0, .1);
@@ -106,7 +105,8 @@ div {
     padding-bottom: 1.25rem;
     font-size: 1.5em;
     width: 50%;
-    min-width: 700px;
+    min-width: 470px;
+    max-width: 800
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2), 0 1px 2px rgba(0, 0, 0, .1);
     border-radius: 10px;
     align-content: center;
