@@ -2,6 +2,10 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <title>code.spam();</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -39,8 +43,8 @@ checkMode()
     <!--  navigation menu i guess? -->
     <nav class="menu">
       <div class="left"> <div class="button"> blog </div></div>
-      <div class="center"> <div class="button" onclick="document.location='experiments.html'"> experiments </div></div>
-      <div class="right"> <div class="button" onclick="changeMode()"> dark mode? </div></div>
+      <div class="center"> <div class="button" id="expButton" onclick="document.location='experiments.html'"> experiments </div></div>
+      <div class="right"> <div class="button" id="darkButton" onclick="changeMode()"> dark mode? </div></div>
     </nav>
     <div class="main">
         <p>hello there</p>
@@ -50,7 +54,7 @@ checkMode()
 
     <!--  footer  -->
     <footer>
-        made with &lt;3 by 4 bozos from the ground up
+        made with &lt;3 by a bunch of dumbos from the ground up
     </footer>
     <script src="app.js"></script>
 </body>

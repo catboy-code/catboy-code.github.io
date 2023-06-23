@@ -2,8 +2,12 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>code.spam();</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>lorem ipsum lol</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <script>
@@ -12,48 +16,49 @@
     if (localStorage.getItem("lightMode") == "dark") {
 	localStorage.setItem ("lightMode", "dark");
 	app.setAttribute("light-mode", "dark");
-    } else {
+   } else {
 	localStorage.setItem ("lightMode", "light");
 	app.setAttribute("light-mode", "light");
-    }
+   }
 }
 checkMode()
 </script>
 
  <script src="/upup.min.js"></script>
   <script>
-    UpUp.start({
-      'content-url': '/offline.html', // show this page to offline users
-      'assets': ['styles.css', 'app.js', 'assets/noise.png', 'assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg', 'assets/selawksl.ttf']
-    });
+    UpUp.start({
+      'content-url': '/offline.html', // show this page to offline users
+      'assets': ['styles.css', 'app.js', 'assets/noise.png', 'assets/adrien-olichon-gOdavfpH-3s-unsplash.jpg', 'assets/selawksl.ttf']
+    });
   </script>
  
-    <!--  header  -->
-    <div class="headerbg">
-        <div class="header">
-            <header>
-                <h1>code.spam();</h1>
-                <p>when people who know nothing about web development come together</p>
-                <a href = "https://t.me/code_spam">Join our Telegram<img src="assets/telegram-logo.svg"></a>
-            </header>
-        </div>
-    </div>
-    <!--  navigation menu i guess? -->
-    <nav class="menu">
-      <div class="left"> <div class="button"> blog </div></div>
-      <div class="center"> <div class="button" onclick="document.location='experiments.html'" role="button"> experiments </div></div>
-      <div class="right"> <div class="button" onclick="changeMode()" role="button"> dark mode? </div></div>
-    </nav>
-    <div class="main">
-        <p>hello there</p>
-        <p>this website doesn't have much right now, but it'll be filled with experiments soon.</p>
-        <p>as for blog, oh well; you win some you lose some.</p>
-    </div>
+    <!--  header  -->
+    <div class="headerbg">
+        <div class="header">
+            <header>
+                <h1>lorem ipsum</h1>
+                <p>when people who know nothing about programming come together</p>
+                <a href = "https://discord.gg/TkMxCa64Eh">Join our Discord Server<img src="assets/discord.svg" style="height: 12px; margin: 0 0.25rem; margin-bottom: -2px;"></a>
+            </header>
+        </div>
+    </div>
+    <!--  navigation menu i guess? -->
+    <nav class="menu">
+      <div class="left"> <div class="button"> blog </div></div>
+      <div class="center"> <div class="button" id="expButton" role="button"> experiments </div></div>
+      <div class="right"> <div class="button" id="darkButton" role="button"> dark mode? </div></div>
+    </nav>
+    <div class="main">
+        <p>hello there</p>
+        <p>this website doesn't have much right now, but it'll be filled with experiments soon.</p>
+        <p>as for blog, oh well; you win some you lose some.</p>
+    </div>
 
-    <!--  footer  -->
-    <footer>
-        made with &lt;3 by 4 bozos from the ground up
-    </footer>
-    <script src="app.js"></script>
+    <!--  footer  -->
+    <footer>
+        made with &lt;3 by a bunch of dumbos from the ground up
+    </footer>
+    <script src="app.js"></script>
 </body>
 </html>
+
