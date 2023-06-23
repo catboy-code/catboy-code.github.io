@@ -1,0 +1,132 @@
+[0mMicrosoft Windows [Version 10.0.19044.1620][0K[?25l
+(c) Microsoft Corporation. All rights reserved.[0K
+[0K
+D:\PC related stuff\Documents\GitHub\code-spam.github.io>[0K[?25hw[0Ki[0Kn[0Kf[0Ke[0Kt[0Kc[0Kh[0K]0;  - winfetch[?25l
+[0K[?25h[?25l
+ [0;34;94m                    ....,,:;+ccllll[0m[0K
+[0;34;94m       ...,,+:;  cllllllllllllllllll[0m[0K
+[0;34;94m ,cclllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m                                    [0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[18A [0;34;94m                    ....,,:;+ccllll[0m   [0;33;93mnewes[0m@[0;33;93mCALDO[0m[0K
+[0;34;94m       ...,,+:;  cllllllllllllllllll[0m   -----------[0K
+[0;34;94m ,cclllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m                                    [0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[16A[0;34;94m ,cclllllllllll  lllllllllllllllllll[0m   [0;33;93mOS[0m: Windows 10 Pro [64-bit][0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m                                    [0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[15A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mHost[0m: Micro-Star International Co., Ltd[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mKernel[0m: 10.0.19044.0[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mMotherboard[0m: Micro-Star International Co[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m                                    [0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[12A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mUptime[0m: 4 hours 8 minutes[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m                                    [0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[11A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mPackages[0m: 36 (choco), 1 (scoop)[0K
+[0;34;94m                                    [0m   [0;33;93mShell[0m: PowerShell v5.1.19041.1620[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[9A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mResolution[0m: 1920x1080[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[8A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mTerminal[0m: terminal[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[7A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mCPU[0m: AMD Ryzen 7 1700 Eight-Core Process[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mGPU[0m: NVIDIA GeForce GTX 1660 SUPER[0K
+[0;34;94m llllllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[5A[0;34;94m llllllllllllll  lllllllllllllllllll[0m   [0;33;93mMemory[0m: 8.66 GiB / 15.93 GiB (54%)[0K
+[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m[0K
+[0;34;94m                                  ``[0m[0K
+[0K[4A[0;34;94m `'ccllllllllll  lllllllllllllllllll[0m   [0;33;93mDisk (C:)[0m: 142 GiB / 159 GiB (89%)[0K
+[0;34;94m       `' \\*::  :ccllllllllllllllll[0m[0K
+[0;34;94m                        ````''*::cll[0m      [0;37;41m   [0;37;42m   [0;37;43m   [0;37;44m   [0;37;45m   [0;37;46m   [0;37;47;8m   [0m[0K
+[0;34;94m                                  ``[0m   [0;37;40;100m   [0;37;41;101m   [0;37;42;102m   [0;37;43;103m   [0;37;44;104m   [0;37;45;105m   [0;37;46;106m   [0;7m   [0m[0K
+[0K
+[0K
+[0K[?25h]0; [?25l
+D:\PC related stuff\Documents\GitHub\code-spam.github.io>[0K[?25h
